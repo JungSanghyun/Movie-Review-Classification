@@ -3,7 +3,7 @@ import os
 import sys
 from nltk import ngrams
 
-PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))  # 프로젝트 디렉토리
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 if PROJECT_ROOT not in sys.path: sys.path.append(PROJECT_ROOT)
 from util.file import load_json, save_pickle
 from util.directory import *
