@@ -1,4 +1,4 @@
-# Movie-Review-Classification
+# Movie-Review-Classifier
 
 KAIST 2020 Spring Semester - CS372: Natural Language Processing with Python - Term Project
 
