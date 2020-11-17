@@ -7,10 +7,10 @@ KAIST 2020 Spring Semester - CS372: Natural Language Processing with Python - Te
 ## Dependency
 
 * Python 3.7
-* beautifulsoup4>=4.6.0
-* konlpy>=0.5.2
-* nltk>=3.4.5
-* requests>=2.23.0
+* beautifulsoup4==4.6.0
+* konlpy==0.5.2
+* nltk==3.4.5
+* requests==2.23.0
 
 ## Implementation
 
