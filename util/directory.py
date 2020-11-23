@@ -9,7 +9,7 @@ if PROJECT_ROOT not in sys.path: sys.path.append(PROJECT_ROOT)
 
 # For Raw Data
 RAW_DIR = os.path.join(PROJECT_ROOT, 'data/raw_data/')
-LOG_FILE = os.path.join(RAW_DIR, 'status.log')
+LOG_FILE = os.path.join(RAW_DIR, 'status_log.txt')
 POS_RAW, NEG_RAW = os.path.join(RAW_DIR, 'pos_raw.tsv'), os.path.join(RAW_DIR, 'neg_raw.tsv')
 
 # For Dataset
