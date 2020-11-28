@@ -130,3 +130,6 @@ dmypy.json
 
 # pycharm
 .idea
+
+# Crawl log
+data/raw_data/status_log.txt
