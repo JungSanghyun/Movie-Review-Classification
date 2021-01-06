@@ -129,7 +129,10 @@ dmypy.json
 .pyre/
 
 # pycharm
-.idea
+.idea/
+
+# vscode
+.vscode/
 
 # Crawl log
 data/raw_data/status_log.txt
